@@ -1,7 +1,9 @@
 <?php
 
-echo "Ohayo123!!!";
+echo "Ohayo!!!";
 
-echo " Olá git!!! ";
+echo " Olá git123!!! ";
+
+echo "Olá estudos!!!"
 
 ?>
